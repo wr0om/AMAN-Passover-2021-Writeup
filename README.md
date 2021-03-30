@@ -8,7 +8,6 @@ lets list all the mistakes by order:
 1. sufficed – sufliced
 2. had - hed
 3. sea - tea
-
 ...
 
 We can notice that all the spelling mistakes are mistakes of 1 letter out of place - 'l' instead of an 'f' for sufficed.
