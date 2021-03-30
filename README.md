@@ -17,9 +17,9 @@ As we see, we get the string "letmypeoplego".
 At the bottom of the page, below the song, we see - Who said ____________?
 We place the word we found - **Who said let my people go? - Moses**.
 
-We get a link - _www.idf.il/_____/י/_
+We get a link - _www.idf.il/_____/י/_.
 We place "Moses" inside the link (in hebrew like stated below - "משה"),
-and continue to the next stage located at www.idf.il/משה/י/
+and continue to the next stage located at www.idf.il/משה/י/.
 
 We get this sentence:
 "יש מי שחושב שסיפור יציאת מצרים הוא פנטזיה, אך תוך כדי ויכוח טוב, תוכלו להראות את העובדה הבאה ולהוכיח, שאין זו..."
