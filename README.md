@@ -21,7 +21,7 @@ We place the word we found - **Who said let my people go? - Moses**.
 
 We get a link - _www.idf.il/_____/י/_.
 We place "Moses" inside the link (in hebrew like stated below - "משה"),
-and continue to the next stage located at www.idf.il/משה/י/.
+and continue to the next stage located at **www.idf.il/משה/י/**.
 
 We get this sentence:
 "יש מי שחושב שסיפור יציאת מצרים הוא פנטזיה, אך תוך כדי ויכוח טוב, תוכלו להראות את העובדה הבאה ולהוכיח, שאין זו..."
@@ -29,7 +29,7 @@ And string: "בט.טזחובד, גא.____טו"
 
 "אין זו אגדה" - is a known saying referenced in the first sentence given (phrase from "Altneuland" - book by Theodor Herzl).
 
-We place the word "אגדה" in the given string: "בט.טזחובד, גא.אגדהטו".
+We place the word "אגדה" in the given string: **"בט.טזחובד, גא.אגדהטו"**.
 Underneath the string there is another hint: "בסמוך תמצאו עיר שמסמלת ניצחון כואב" - near you will find a city that symbolizes a painful victory.
 From the format of the given string and that hint, we can assume the string is coordinates.
 
