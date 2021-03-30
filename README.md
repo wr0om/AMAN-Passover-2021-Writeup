@@ -1,5 +1,5 @@
 # HIDA_AMAN Writeup
-https://www.idf.il/%D7%90%D7%AA%D7%A8%D7%99%D7%9D/%D7%90%D7%92%D7%A3-%D7%94%D7%9E%D7%95%D7%93%D7%99%D7%A2%D7%99%D7%9F/2021/%D7%97%D7%99%D7%93%D7%AA-%D7%9E%D7%95%D7%93%D7%99%D7%A2%D7%99%D7%9F-%D7%90%D7%9E%D7%9F-%D7%A4%D7%A1%D7%97-%D7%90%D7%AA%D7%92%D7%A8-%D7%A6%D7%94%D7%9C-%D7%97%D7%99%D7%93%D7%94/
+www.idf.il/אתרים/אגף-המודיעין/2021/חידת-מודיעין-אמן-פסח-אתגר-צהל-חידה/
 
 We start the challenge by getting a translation of the popular song Dayenu (דיינו) from hebrew to english.
 As we read it, we can notice spelling mistakes throughout the song.
