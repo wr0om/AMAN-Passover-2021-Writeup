@@ -38,7 +38,7 @@ which leads us to The Great Pyramid of Giza.
 
 ![image](https://user-images.githubusercontent.com/59180254/112946982-df94c180-913e-11eb-861d-bde497257d19.png)
 
-Near the pyramid, we can see a city called "6th of October".
+Close to the pyramid, we can spot a city called "6th of October".
 This city's name commemorates the commencement of the 1973 Arab–Israeli War on 6 October 1973 - which was a painful victory for Israel (the hint from earlier checks out).
 
 ![image](https://user-images.githubusercontent.com/59180254/112949244-ae69c080-9141-11eb-8b5f-86b7b2afc56a.png)
