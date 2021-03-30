@@ -12,10 +12,11 @@ lets list all the mistakes by order:
 4. ...
 
 We can notice that all of the spelling mistakes are mistakes of 1 letter that is misplaced - 'l' instead of an 'f' for sufficed.
-let's make a string using those mistakes, we start with the letter 'l'.
+let's make a string using these mistakes, we start with the letter 'l'.
 As we see, we get the string "letmypeoplego".
 
-At the bottom of the page, below the song, we see - Who said ____________?
+At the bottom of the page, below the song, we see - "Who said ____________?"
+
 We place the word we found - **Who said let my people go? - Moses**.
 
 We get a link - _www.idf.il/_____/י/_.
