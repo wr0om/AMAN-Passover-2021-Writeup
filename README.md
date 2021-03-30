@@ -1,4 +1,4 @@
-# HIDA_AMAN Writeup
+# AMAN Challenge Writeup
 www.idf.il/אתרים/אגף-המודיעין/2021/חידת-מודיעין-אמן-פסח-אתגר-צהל-חידה/
 
 We start the challenge by getting a translation of the popular song Dayenu (דיינו) from hebrew to english.
