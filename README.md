@@ -26,7 +26,8 @@ We get this sentence:
 And string: "בט.טזחובד, גא.____טו"
 
 "אין זו אגדה" - is a known saying referenced in the first sentence given (phrase from "Altneuland" - book by Theodor Herzl).
-We place the word אגדה in the given string: "בט.טזחובד, גא.אגדהטו".
+
+We place the word "אגדה" in the given string: "בט.טזחובד, גא.אגדהטו".
 Underneath the string there is another hint: "בסמוך תמצאו עיר שמסמלת ניצחון כואב" - near you will find a city the symbolizes a painful victory.
 From the format of the given string and that hint, we can assume the string is coordinates by using Gematria (where each character is equal to a number).
 we get these coordinates: **29.978624, 31.134596** which lead us to The Great Piramid of Giza
