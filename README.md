@@ -3,7 +3,7 @@
 We start the challenge by getting a translation of the popular song Dayenu (דיינו) from hebrew to english.
 As we read it, we can notice spelling mistakes throughout the song.
 
-for example, sufficed (the #1 spelling mistake) becomes sufliced in the song - and so forth.
+for example, "sufficed" (the #1 spelling mistake) becomes "sufliced" in the song - and so forth.
 lets list all the mistakes by order:
 1. sufficed – sufliced
 2. had - hed
