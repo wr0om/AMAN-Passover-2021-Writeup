@@ -42,10 +42,11 @@ This city's name commemorates the commencement of the 1973 Arab–Israeli War on
 
 So that's it? we finished the challenge? not yet.
 We still haven't found a way to send the answer to AMAN.
+By searching around on the site, I stumbled upon this picture with morse code shown at the bottom.
 
-By searching around on the site, I stumbled on this picture with morse code shown at the bottom.
 ![image](https://user-images.githubusercontent.com/59180254/112947546-9729d380-913f-11eb-960b-060f04d01154.png)
+
 **.... .. -.. .- .-.-.- .. -.. ..-. .-.-.- .- -- .- -. .--.-. --. -- .- .. .-.. .-.-.- -.-. --- --**
 The morse code translates to: **"HIDA.IDF.AMAN@GMAIL.COM"**
 
-That's it, now all I have to do is send the answer to this email adress.
+That's it, now all I have to do is send the answer (The Great Pyramid of Giza) to this email adress.
