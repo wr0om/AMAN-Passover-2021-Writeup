@@ -5,7 +5,7 @@ We start the challenge by getting a translation of the popular song Dayenu (די
 As we read it, we can notice spelling mistakes throughout the song.
 
 for example, "sufficed" (the #1 spelling mistake) becomes "sufliced" in the song - and so forth.
-lets list all the mistakes by order:
+let's list all the mistakes by order:
 1. sufficed – sufliced
 2. had - hed
 3. sea - tea
