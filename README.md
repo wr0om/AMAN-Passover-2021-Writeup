@@ -11,7 +11,7 @@ lets list all the mistakes by order:
 3. sea - tea
 4. ...
 
-We can notice that all the spelling mistakes are mistakes of 1 letter out of place - 'l' instead of an 'f' for sufficed.
+We can notice that all of the spelling mistakes are mistakes of 1 letter that is misplaced - 'l' instead of an 'f' for sufficed.
 let's make a string using those mistakes, we start with the letter 'l'.
 As we see, we get the string "letmypeoplego".
 
