@@ -1,4 +1,4 @@
-# HIDA_AMAN
+# HIDA_AMAN Writeup
 
 We start the challenge by getting a translation of the popular song Dayenu (דיינו) from hebrew to english.
 As we read the song, we can notice spelling mistakes throughout the song.
