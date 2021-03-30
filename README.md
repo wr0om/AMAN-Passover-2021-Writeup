@@ -33,7 +33,7 @@ We place the word "אגדה" in the given string: "בט.טזחובד, גא.אג�
 Underneath the string there is another hint: "בסמוך תמצאו עיר שמסמלת ניצחון כואב" - near you will find a city that symbolizes a painful victory.
 From the format of the given string and that hint, we can assume the string is coordinates.
 
-by using Gematria (where each character is equal to a number), we get these coordinates: **29.978624, 31.134596**.
+By using Gematria (where each character is equal to a number), we get these coordinates: **29.978624, 31.134596**.
 which leads us to The Great Pyramid of Giza.
 
 ![image](https://user-images.githubusercontent.com/59180254/112946982-df94c180-913e-11eb-861d-bde497257d19.png)
