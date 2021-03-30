@@ -41,7 +41,9 @@ This city's name commemorates the commencement of the 1973 Arab–Israeli War on
 ![image](https://user-images.githubusercontent.com/59180254/112949244-ae69c080-9141-11eb-8b5f-86b7b2afc56a.png)
 
 So that's it? we finished the challenge? not yet.
+
 We still haven't found a way to send the answer to AMAN.
+
 By searching around on the site, I stumbled upon this picture with morse code shown at the bottom.
 
 ![image](https://user-images.githubusercontent.com/59180254/112947546-9729d380-913f-11eb-960b-060f04d01154.png)
