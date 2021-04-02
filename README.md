@@ -54,4 +54,4 @@ By searching around on the site, I stumbled upon this image with morse code show
 
 The morse code translates to: **"HIDA.IDF.AMAN@GMAIL.COM"**
 
-That's it, now all I have to do is send the answer (The Great Pyramid of Giza) to this email adress.
+That's it, now all we have to do is send the answer (The Great Pyramid of Giza) to this email adress.
