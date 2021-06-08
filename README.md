@@ -1,9 +1,21 @@
 # AMAN Challenge Writeup
 www.idf.il/אתרים/אגף-המודיעין/2021/חידת-מודיעין-אמן-פסח-אתגר-צהל-חידה/
 
+## First Stage
 We start the challenge by getting a translation of the popular song Dayenu (דיינו) from hebrew to english.
 As we read it, we can notice spelling mistakes throughout the song.
 
+```
+If He had brought us out from Egypt, and had not carried out judgments against them
+
+!Dayenu, it would have sufficed us-
+
+If he had carried out judgments against them, and not against their idols
+
+!Dayenu, it would have sufficed us-
+
+and so forth...
+```
 For example, "sufficed" (the #1 spelling mistake) becomes "sufliced" in the song - and so forth.
 let's list all the mistakes by order:
 1. sufficed – sufliced
@@ -11,7 +23,7 @@ let's list all the mistakes by order:
 3. sea - tea
 4. ...
 
-We can notice that all of the spelling mistakes are mistakes of 1 letter that is misplaced - 'l' instead of an 'f' for sufficed.
+We can notice that all of the spelling mistakes are mistakes of 1 letter that is misplaced - ergo 'l' instead of an 'f' for sufficed.
 let's make a string using these mistakes, we start with the letter 'l'.
 As we see, we get the string "letmypeoplego".
 
@@ -23,16 +35,21 @@ We get a link - _www.idf.il/_____/י/_.
 We place "Moses" inside the link (in hebrew like stated below - "משה"),
 and continue to the next stage located at **www.idf.il/משה/י/**.
 
-We get this sentence:
-"יש מי שחושב שסיפור יציאת מצרים הוא פנטזיה, אך תוך כדי ויכוח טוב, תוכלו להראות את העובדה הבאה ולהוכיח, שאין זו..."
-And string: "בט.טזחובד, גא.____טו"
+## Second Stage
+On the next page we get this sentence:
+```
+... יש מי שחושב שסיפור יציאת מצרים הוא פנטזיה, אך תוך כדי ויכוח טוב, תוכלו להראות את העובדה הבאה ולהוכיח, שאין זו
+And the string: "בט.טזחובד, גא.____טו"
+```
 
-"אין זו אגדה" - is a known saying referenced in the first sentence given (phrase from "Altneuland" - book by Theodor Herzl).
+"אין זו אגדה" - is a known saying referenced in the first sentence given (phrase from ["Altneuland"](https://en.wikipedia.org/wiki/The_Old_New_Land) - book by Theodor Herzl).
 
-We place the word "אגדה" in the given string: **"בט.טזחובד, גא.אגדהטו"**.
-Underneath the string there is another hint: "בסמוך תמצאו עיר שמסמלת ניצחון כואב" - near you will find a city that symbolizes a painful victory.
+We place the word "אגדה" in the given string: *"בט.טזחובד, גא.**אגדה**טו"*.
+Underneath the string there is another hint: 
+
+"בסמוך תמצאו עיר שמסמלת ניצחון כואב" - near you will find a city that symbolizes a painful victory.
+
 From the format of the given string and that hint, we can assume the string is coordinates.
-
 By using Gematria (where each character is equal to a number), we get these coordinates: **29.978624, 31.134596**.
 which leads us to The Great Pyramid of Giza.
 
@@ -50,7 +67,7 @@ By searching around on the site, I stumbled upon this image with morse code show
 
 ![image](https://user-images.githubusercontent.com/59180254/112947546-9729d380-913f-11eb-960b-060f04d01154.png)
 
-**.... .. -.. .- .-.-.- .. -.. ..-. .-.-.- .- -- .- -. .--.-. --. -- .- .. .-.. .-.-.- -.-. --- --**
+```.... .. -.. .- .-.-.- .. -.. ..-. .-.-.- .- -- .- -. .--.-. --. -- .- .. .-.. .-.-.- -.-. --- --```
 
 The morse code translates to: **"HIDA.IDF.AMAN@GMAIL.COM"**
 
