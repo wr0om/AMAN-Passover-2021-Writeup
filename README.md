@@ -6,7 +6,6 @@
 <img align="center" alt="wr0om | AMAN-CHALLENGE" width="120px" src="https://upload.wikimedia.org/wikipedia/commons/6/68/AmanLogo.svg"/>
 </p>
 
-<br/>
 
 ## First Stage
 We start the challenge by getting a translation of the popular song Dayenu (דיינו) from Hebrew to English.
